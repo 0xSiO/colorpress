@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors = ['Luc Street']
 
   spec.summary = 'Visualize arbitrary files as PNG images'
-  spec.homepage = 'https://github.com/lucis-fluxum/colorpress'
+  spec.homepage = 'https://github.com/0xSiO/colorpress'
   spec.license = 'MIT'
 
   spec.files = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
